@@ -163,7 +163,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("IMG/porty.jpg")  no-repeat center;
+    background: url("images/porty.jpg")  no-repeat center;
     height: 100vh;
     color: rgba(66, 233, 24, 0.938);
     min-height: 500px;
@@ -461,7 +461,7 @@ section .title::after{
 .work .grid-container .card:hover img{
     border-color: #fff;
 }
-
+0
 
 /* contact section styling */
 .contact .title::after{
